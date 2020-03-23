@@ -170,8 +170,8 @@ def team_colors(team_name)
     if team[:team_name]  == team_name
 
     end
+end
 return team[:colors]
-  end
 end
 
 
